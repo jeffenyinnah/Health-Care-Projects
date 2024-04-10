@@ -7,7 +7,7 @@ HCAHPS is a tool that measures patient satisfaction. It's used to assess the lev
 - My HCAHPS insights using tableau. [Click here to view it](https://public.tableau.com/app/profile/amamihe.kaiser/viz/HCAPSPatientSatisfactionScores/HCAHPSDashboard)
 
 ### Emergency Room Visits Dashboard
-Emergency Room Visits Dashboard. Using tableau [click here to view it] (https://public.tableau.com/app/profile/amamihe.kaiser/viz/EmergenyRoomVisitsDashboard/EmergenyRoomVisitsDashboard)
+Emergency Room Visits Dashboard. Using tableau [click here to view it](https://public.tableau.com/app/profile/amamihe.kaiser/viz/EmergenyRoomVisitsDashboard/EmergenyRoomVisitsDashboard)
 
 ### Healthcare Insurance Data Analysis (Data wrangling and insights)
-Healthcare Insurance. Using tableau [click here to view it] (https://github.com/jeffenyinnah/healthcare/blob/main/Healthcare%20insurance.ipynb)
+Healthcare Insurance. Using tableau [click here to view it](https://github.com/jeffenyinnah/healthcare/blob/main/Healthcare%20insurance.ipynb)

@@ -2,7 +2,7 @@
 HCAHPS is a tool that measures patient satisfaction. It's used to assess the level and quality of care patients receive in hospitals across the country.
 
 ### Written by me, [Amamihe Jefferson Enyinnah](https://www.linkedin.com/in/amamihe-kaiser/)
-### Date Updated: February 29th 2024
+### Date Updated: April 3rd 2024
 
 ## Summary of the project
 The HCAHPS Patient Satisfaction Survey Analysis project involves combining SQL and Tableau to develop a comprehensive dashboard for assessing hospital performance based on patient satisfaction metrics. 
